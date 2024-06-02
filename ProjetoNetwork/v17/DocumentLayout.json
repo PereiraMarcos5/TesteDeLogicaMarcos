@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ExercicioBenner\\ProjetoNetwork\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA742ADC-4CD7-423C-82D7-A426073FC589}|ProjetoNetwork.csproj|c:\\exerciciobenner\\projetonetwork\\network.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA742ADC-4CD7-423C-82D7-A426073FC589}|ProjetoNetwork.csproj|solutionrelative:network.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA742ADC-4CD7-423C-82D7-A426073FC589}|ProjetoNetwork.csproj|C:\\ExercicioBenner\\ProjetoNetwork\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA742ADC-4CD7-423C-82D7-A426073FC589}|ProjetoNetwork.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Network.cs",
+              "DocumentMoniker": "C:\\ExercicioBenner\\ProjetoNetwork\\Network.cs",
+              "RelativeDocumentMoniker": "Network.cs",
+              "ToolTip": "C:\\ExercicioBenner\\ProjetoNetwork\\Network.cs",
+              "RelativeToolTip": "Network.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAUwDQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T00:53:07.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ExercicioBenner\\ProjetoNetwork\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\ExercicioBenner\\ProjetoNetwork\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwBcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T00:52:49.923Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

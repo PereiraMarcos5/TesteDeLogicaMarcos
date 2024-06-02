@@ -1,0 +1,7 @@
+C:\ExercicioBenner\ProjetoNetwork\bin\Debug\ProjetoNetwork.exe.config
+C:\ExercicioBenner\ProjetoNetwork\bin\Debug\ProjetoNetwork.exe
+C:\ExercicioBenner\ProjetoNetwork\bin\Debug\ProjetoNetwork.pdb
+C:\ExercicioBenner\ProjetoNetwork\obj\Debug\ProjetoNetwork.csproj.AssemblyReference.cache
+C:\ExercicioBenner\ProjetoNetwork\obj\Debug\ProjetoNetwork.csproj.CoreCompileInputs.cache
+C:\ExercicioBenner\ProjetoNetwork\obj\Debug\ProjetoNetwork.exe
+C:\ExercicioBenner\ProjetoNetwork\obj\Debug\ProjetoNetwork.pdb
